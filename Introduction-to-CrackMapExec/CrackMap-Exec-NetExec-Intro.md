@@ -2,9 +2,9 @@
 
 - [CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) (a.k.a CME) is a tool that helps assess the security of large networks composed of **Windows workstations and servers.** 
 
-![CrackMapExec](/Introduction-to-CrackMapExec/images/cme.image.png) 
+![CrackMapExec](/Introduction-to-CrackMapExec/images/cme-image.png) 
 
-![CrackMapExec](/Introduction-to-CrackMapExec/images/nxc.image.png) 
+![CrackMapExec](/Introduction-to-CrackMapExec/images/nxc-image.png) 
 
 - CME heavily uses the [Impacket](https://github.com/SecureAuthCorp/impacket) library to work with network protocols and perform a variety of post-exploitation techniques. To understand the power of CME, we need to imagine simple scenarios: 
 
