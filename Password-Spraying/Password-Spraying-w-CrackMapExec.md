@@ -173,4 +173,4 @@ $ crackmapexec mssql 10.129.78.7 -u newusers.txt -p newpasswords.txt --local-aut
 
 ![Password Spraying](/Password-Spraying/images/mssql.png) 
 
-![Password Spraying](/Password-Spraying/images/mssql-1.png) 
+![Password Spraying](/Password-Spraying/images/mssql-2.png) 
